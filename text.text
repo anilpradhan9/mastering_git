@@ -1,0 +1,25 @@
+ git --version
+ git config --global user.name 'ANil'
+  git config --global user.email 'anilpradhsn7979@gmail.com'
+ git init
+  git status
+  git add readme.md
+  git commit -m 'Add readme.md file'
+  git status
+  git add ./
+  git commit -m 'Add hello and text file'
+   git checkout 27649b70b124e96eaf2500b43acf859daad8dce0
+    git checkout main
+     git checkout -f main
+     git branch -M main
+     git remote add origin https://github.com/anilpradhan9/mastering_git.git
+     git push -u origin main
+     git branch branch-name
+     git checkout main
+      git checkout -b feature-branch
+      git add ./
+       git commit -m 'Modify readme'
+       git push --set-upstream origin feature-branch
+        git push -u origin feature-branch
+         git push
+          git pull
