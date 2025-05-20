@@ -1,3 +1,3 @@
-## hey everyone , wellcome to by GIT !
--john here
+## Hello git!
+
 -i'm adding this from
